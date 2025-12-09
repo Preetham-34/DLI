@@ -6,6 +6,14 @@ import runtimeErrorOverlay from "@replit/vite-plugin-runtime-error-modal";
 import { metaImagesPlugin } from "./vite-plugin-meta-images";
 
 export default defineConfig({
+  // ------------------------------------------------------------------
+  // 🚀 FIX FOR GITHUB PAGES: Add the 'base' property
+  //
+  // IMPORTANT: Replace <REPO-NAME> with your actual repository name.
+  // Example: If your repo is 'github.com/username/my-project', use '/my-project/'
+  // ------------------------------------------------------------------
+  base: "/DLI/",
+
   plugins: [
     react(),
     runtimeErrorOverlay(),
