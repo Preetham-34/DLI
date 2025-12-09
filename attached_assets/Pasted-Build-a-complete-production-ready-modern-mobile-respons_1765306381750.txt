@@ -1,0 +1,61 @@
+Build a complete, production-ready, modern, mobile-responsive single-page website for an Indian AI video intelligence startup named "DeepLook India".
+
+Requirements:
+- Hero section with tagline: "DeepLook India – The Operating System for Every Camera in India"
+- Subtitle: "One platform. 100+ AI products. 500 million cameras. Made in India."
+- Two prominent CTA buttons: "Explore All Products" (scrolls to products) and "Get Early Access" (mailto:founder@deeplook.in)
+- Clean, premium design using Tailwind CSS or vanilla CSS (no Bootstrap)
+- Dark blue (#0052CC) + teal (#00D4AA) color scheme
+- Use Google Fonts: Inter
+- Include Font Awesome icons
+
+Main section titled: "9 Product Lines. 100+ SKUs. One Login."
+
+Display exactly these 9 product categories in a responsive grid of cards (3 columns desktop, 1 column mobile). Each card must have:
+- Colored header (blue background, white text)
+- Category title in bold
+- Bullet list of all SKUs belonging to that category (use green checkmark before each item)
+
+Here are the exact 9 categories and their SKUs:
+
+1. DeepLook Home & Family
+   Ghar – Home Security, Society Gate & Parking, School Face Attendance, Women Safety Button, Elder Fall Detection, Baby Monitor Pro, Pet Activity Monitor, Bike Theft Tracker, Personal Dashcam Scoring, Insurance Telematics, Gait Health Monitor, ElderCare 24×7
+
+2. DeepLook City & Traffic
+   Smart City OS, e-Challan Automation, Red Light Violation, Speed Enforcement, Helmet & Triple Riding, Wrong-Way Detection, Illegal Parking, Bus Lane Violation, Crowd Density Alert, Disaster Early Warning, Illegal Waste Dumping, Road Encroachment, Street Light Fault, Zebra Crossing Safety, Toll Under-body Scan, Metro Platform Safety, EV Charger Guard, Drone Intrusion
+
+3. DeepLook Enterprise Security
+   Bank Branch Security, ATM Fraud Shield, Jewellery 360°, Hospital Safety, Airport Perimeter, Hotel Staff Monitoring, Pharma Clean Room, Tailgating Prevention, VIP Face Recognition, Prison Violence Detection, Temple Crowd Flow, Exam Hall Proctoring, Interview Integrity, Port Container Scan
+
+4. DeepLook Industry 4.0
+   Factory Worker Safety, PPE Compliance, Construction Site Guard, Mining Safety, Oil & Gas Perimeter, Warehouse Theft, Fatigue Detection, Danger Zone Entry, Flame & Spill Alert, Railway Track Intrusion, FOD Detection (Airport), Farm & Cattle Guard
+
+5. DeepLook Education
+   Face Attendance (Free), Bus Tracking, Classroom Attention, Teacher Performance, Exam Malpractice Detection, Lost Child Reunite, Student Sentiment, Remote Proctoring
+
+6. DeepLook Retail & Hospitality
+   Queue Management, Footfall Analytics, Shelf Compliance, Theft Prevention, Customer Sentiment, Hotel Room Verification, Temple Queue, Lost & Found, Staff Theft Monitor, Heatmap Insights
+
+7. DeepLook Transport & Logistics
+   Fleet Dashcam AI, Driver Drowsiness, Container Damage, Toll Violation, Railway Pantograph, Metro Screen Door, Port Seal Check, Cargo Theft, Under-body Scanning, Truck Overload
+
+8. DeepLook Government & Defence
+   Predictive Policing, Border Intrusion, Forest Poaching, Prison Self-harm, National Video Grid, Disaster Response, Gunshot & Scream, Satellite Fusion, Radiation Monitoring, Underwater Guard, CrimePredict Engine, TouristFlow Analytics
+
+9. DeepLook Data & Insights
+   Anonymised Footfall Data, City Heatmap API, Crime Prediction, Tourism Analytics, Retail Insights Pack, Traffic Data Pack, Health Gait Data, Advertising Marketplace, Insurance Risk Scoring, Bank Fraud Patterns, 16+ Premium Data Packs
+
+Footer:
+- Large text: "India’s cameras will run on DeepLook. The only question is who owns it."
+- Copyright 2026 DeepLook India Private Limited
+- Email link: founder@deeplook.in
+- "Made with ❤️ in India"
+
+Additional requirements:
+- Smooth scroll behavior
+- Hover effects on cards (lift + deeper shadow)
+- Fully responsive (mobile, tablet, desktop)
+- Fast loading, clean code
+- Output the complete HTML + CSS + JS in one file (no external dependencies except Google Fonts and Font Awesome CDN)
+
+Generate the full working code now.
